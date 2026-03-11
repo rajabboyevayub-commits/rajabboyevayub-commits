@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajabboy Vayub</h1>
+<h3 align="center">Frontend Developer | 1.5+ Years Experience | Passionate about Modern Web Technologies</h3>
 
-<!--
-**rajabboyevayub-commits/rajabboyevayub-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajabovv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+💻 I am a **Frontend Developer** with more than **1.5 years of experience** building modern web applications.
+
+🌱 Currently improving my skills and learning **advanced frontend technologies**.
+
+⚡ I enjoy building **clean UI, responsive design, and user-friendly web experiences**.
+
+🎯 My goal is to become a **high-level frontend engineer and contribute to impactful projects**.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajabovv&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajabovv&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabovv&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **rajabboyvayub@gmail.com**
+
+💬 Telegram: https://t.me/rajabovv_0411
+
+📱 Phone: **+998 88 637 87 47**
+
+📷 Instagram: https://instagram.com/rajabovv_0411
+
+---
+
+## ⚡ Fun Fact
+
+I believe **great user experience comes from simple and clean design**.
+
+---
+
+⭐️ From [rajabovv](https://github.com/rajabovv)
